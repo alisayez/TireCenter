@@ -1,0 +1,8 @@
+"Cool Tire" "Bridgestone Tires" t 80 40 105 50 50 "U" a
+"White Rim" "ENKEI" r 80 20 70.05 20 1 "white"
+"Cool Tire" "Federal Tires" t 230 50 70 55 55 "P" w
+"Cheap Tire" "Bridgestone Tires" t 40 30 15.05 35 35 "A3" a
+"White Rim" "ENKEI" r 20 40 99.99 40 0 "white"
+"Nice Tire" "Dunlop Tires" t 62 90 105.99 99 99 "L" s
+"Yellow Rim" "CITIC " r 260 40 99.99 40 0 "yellow"
+"Black Rim" "CM Wheels" r 54 90 99.99 90 0 "black"
