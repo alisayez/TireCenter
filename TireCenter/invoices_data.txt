@@ -1,3 +1,0 @@
-"Cat Freddy" "Main Street 6" p 467 32 2 2 "Cool Tire" "Bridgestone Tires" t 80 40 105 50 50 "U" a "Nice Tire" "Dunlop Tires" t 62 90 105.99 99 99 "L" s  "Yellow Rim" "CITIC " r 260 40 99.99 40 1 "yellow"  "Black Rim" "CM Wheels" r 54 90 99.99 90 1 "black" 
-"Best Company" "Business Street 12" c XX121212 5 44.05 9 0 1  "Black Rim" "CM Wheels" r 54 90 99.99 90 0 "black" 
-"Hamster Rebecca" "Main Street 6" p 222.65 15 1 1 "Cheap Tire" "Bridgestone Tires" t 40 30 15.05 35 35 "A3" a  "White Rim" "ENKEI" r 20 40 99.99 40 0 "white" 

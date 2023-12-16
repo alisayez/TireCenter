@@ -1,8 +1,0 @@
-"Squirrel Sandy" "Chocolate Street 27" p
-"Cat Freddy" "Elm Street 13" p
-"Best Company" "Business Street 12" c XX121212 5
-"Hamster Rebecca" "Main Street 6" p
-"Cool Company" "Business Street 54" c XX343434 10
-"Best Company" "Business Street 10" c XX141414 6
-"Squirrel Sandy" "Main Street 7" p
-"Peppa Pig" "Green Street 8" p
